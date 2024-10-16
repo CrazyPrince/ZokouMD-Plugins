@@ -14,7 +14,7 @@
     <a href="https://github.com/CrazyPrince/ZokouMD-Plugins"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/CrazyPrince/ZokouMD-Plugins">View Demo</a>
+    <a href="https://github.com/CrazyPrince/ZokouMD-Plugins/fork">Fork Repo</a>
     ·
     <a href="https://github.com/CrazyPrince/ZokouMD-Plugins/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
