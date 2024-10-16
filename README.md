@@ -32,6 +32,16 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## Forwarding Messages
+
+``` ts
+const author = 'CrazyPrince'
+const age = '20yold'
+const country = 'CM237 cameroon'
+const city = 'Yaounde'
+const wa = '237620114013'
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
