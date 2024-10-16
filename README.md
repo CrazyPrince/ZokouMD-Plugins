@@ -8,10 +8,21 @@
 
 <h3 align="center">ZokouMD-Plugins</h3>
 
+  <p align="center">
+    External and additional commands for ZokouMd bot by @CrazyPrince for you guyzzz !
+    <br />
+    <a href="https://github.com/CrazyPrince/ZokouMD-Plugins"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/CrazyPrince/ZokouMD-Plugins">View Demo</a>
+    ·
+    <a href="https://github.com/CrazyPrince/ZokouMD-Plugins/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/CrazyPrince/ZokouMD-Plugins/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
 
-
-External and additional commands for ZokouMd bot by @CrazyPrince for you guyzzz
-
+#Contenu du readme
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
