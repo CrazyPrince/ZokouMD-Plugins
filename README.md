@@ -9,7 +9,7 @@
 <h3 align="center">ZokouMD-Plugins</h3>
 
   <p align="center">
-    External and additional commands for ZokouMd bot by [@CrazyPrince](https://github.com/CrazyPrince) for you guyzzz !
+    External and additional commands for ZokouMd bot by @CrazyPrince for you guyzzz !
     <br />
     <a href="https://github.com/CrazyPrince/ZokouMD-Plugins"><strong>Explore the docs »</strong></a>
     <br />
